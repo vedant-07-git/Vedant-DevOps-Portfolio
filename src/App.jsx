@@ -336,11 +336,7 @@ function Hero() {
         </FadeIn>
       </div>
 
-      {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-slate-500 text-xs">
-        <div className="w-px h-10 bg-gradient-to-b from-cyan-400 to-transparent animate-pulse" />
-        scroll
-      </div>
+     
     </section>
   );
 }
