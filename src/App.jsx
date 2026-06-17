@@ -110,7 +110,7 @@ function useTypewriter(words, speed = 90, pause = 2000) {
 }
 
 // ─── Data ────────────────────────────────────────────────────────────────────
-const PHONE = "91992157750"; // WhatsApp number (country code + number, no +)
+const PHONE = "91992157720"; // WhatsApp number (country code + number, no +)
 const EMAIL = "vedantsatpute007@gmail.com";
 const LINKEDIN = "https://www.linkedin.com/in/vedant-satpute-29076b272/";
 const GITHUB = "https://github.com/vedant-07-git";
