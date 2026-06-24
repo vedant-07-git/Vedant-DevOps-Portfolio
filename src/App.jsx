@@ -654,7 +654,7 @@ function Contact() {
                 <span className="text-2xl">💬</span>
                 <div>
                   <div className="text-xs text-slate-500 uppercase tracking-wider mb-0.5">WhatsApp</div>
-                  <div className="text-sm font-semibold text-white group-hover:text-emerald-400 transition-colors">+91 7276027460</div>
+                  <div className="text-sm font-semibold text-white group-hover:text-emerald-400 transition-colors">+91 9921577520</div>
                 </div>
               </a>
 
