@@ -700,7 +700,7 @@ function Contact() {
                 <span className="text-2xl">📍</span>
                 <div>
                   <div className="text-xs text-slate-500 uppercase tracking-wider mb-0.5">Location</div>
-                  <div className="text-sm font-semibold text-white">Pune, Maharashtra, IN</div>
+                  <div className="text-sm font-semibold text-white">Pune, Maharashtra, IND</div>
                 </div>
               </div>
             </div>
